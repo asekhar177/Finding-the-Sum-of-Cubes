@@ -1,0 +1,2 @@
+# sum-of-cubes
+I did a mini-analysis on the sum of cubes, which is a Mathematical problem that awaits completion. It states that for every natural number, we can find the sum of the cubes of 3 integers x, y and z. It remains to be solved, and I have not quite done that (given I don't own a supercomputer), but here's some code I created from Python that does not need supercomputer knowledge thankfully! :D
